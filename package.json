@@ -1,0 +1,15 @@
+{
+  "name": "@citadel/identity-enrolment",
+  "version": "0.1.0",
+  "description": "The enrolment broker. A privacy membrane between identity platforms and consumers — not adapters in each consumer. Implementation begins in R2.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "check": "./check-repo.sh",
+    "test": "node -e \"console.log('no implementation yet — begins in R2 (Q7-Q9). check-repo.sh is the active check for this repo.')\""
+  }
+}
